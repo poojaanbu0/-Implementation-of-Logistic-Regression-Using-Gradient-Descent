@@ -109,14 +109,31 @@ def predict(theta,X):
     X_train =np.hstack((np.ones((X.shape[0],1)),X))
     prob=sigmoid(np.dot(X_train,theta))
     return (prob>=0.5).astype(int)
-np.mean(predict(res.x,X)==y)d5
+np.mean(predict(res.x,X)==y)
 */
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
 
+![e5](https://user-images.githubusercontent.com/119390329/236677709-b8811b0d-77cd-4c78-9484-f6fa00c85757.png)
+
+![x5](https://user-images.githubusercontent.com/119390329/236677746-4266f3fe-4c57-4849-9103-d42cd6836046.png)
+
+![p5](https://user-images.githubusercontent.com/119390329/236677760-16c92efc-daaf-4d66-9fc6-02bb6cd01835.png)
+
+![ex5](https://user-images.githubusercontent.com/119390329/236677781-9caee7a0-d353-4b3e-af81-a3a641ece196.png)
+
+![5](https://user-images.githubusercontent.com/119390329/236677840-80fcaac5-a2a9-4b62-8e0f-fe36648d2ec0.png)
+
+![ee5](https://user-images.githubusercontent.com/119390329/236677854-f7505b79-c27c-4dfc-9173-7fe437dd036f.png)
+
+![xx5](https://user-images.githubusercontent.com/119390329/236677864-98ec539a-f768-4272-aac3-5b65471394a8.png)
+
+![xxx5](https://user-images.githubusercontent.com/119390329/236677788-bf0ebcb5-c00b-4890-847e-6ba5ab241d61.png)
+
+![p5p](https://user-images.githubusercontent.com/119390329/236677944-e2267df6-6700-48de-abc9-621c92548129.png)
+
+![ppp5](https://user-images.githubusercontent.com/119390329/236677976-e407b486-ea71-43be-a1b7-8bc289855c60.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
-
