@@ -114,25 +114,34 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-
+### 1.Array Value of x
 ![e5](https://user-images.githubusercontent.com/119390329/236677709-b8811b0d-77cd-4c78-9484-f6fa00c85757.png)
 
+### 2.Array Value of y
 ![x5](https://user-images.githubusercontent.com/119390329/236677746-4266f3fe-4c57-4849-9103-d42cd6836046.png)
 
+### 3.Exam 1 - score graph
 ![p5](https://user-images.githubusercontent.com/119390329/236677760-16c92efc-daaf-4d66-9fc6-02bb6cd01835.png)
 
+### 4.Sigmoid function graph
 ![ex5](https://user-images.githubusercontent.com/119390329/236677781-9caee7a0-d353-4b3e-af81-a3a641ece196.png)
 
+### 5.X_train_grad value
 ![5](https://user-images.githubusercontent.com/119390329/236677840-80fcaac5-a2a9-4b62-8e0f-fe36648d2ec0.png)
 
+### 6.Y_train_grad value
 ![ee5](https://user-images.githubusercontent.com/119390329/236677854-f7505b79-c27c-4dfc-9173-7fe437dd036f.png)
 
+### 7.Print res.x
 ![xx5](https://user-images.githubusercontent.com/119390329/236677864-98ec539a-f768-4272-aac3-5b65471394a8.png)
 
+### 8.Decision boundary - graph for exam score
 ![xxx5](https://user-images.githubusercontent.com/119390329/236677788-bf0ebcb5-c00b-4890-847e-6ba5ab241d61.png)
 
+### 9.Proability value 
 ![p5p](https://user-images.githubusercontent.com/119390329/236677944-e2267df6-6700-48de-abc9-621c92548129.png)
 
+### 10.Prediction value of mean
 ![ppp5](https://user-images.githubusercontent.com/119390329/236677976-e407b486-ea71-43be-a1b7-8bc289855c60.png)
 
 ## Result:
